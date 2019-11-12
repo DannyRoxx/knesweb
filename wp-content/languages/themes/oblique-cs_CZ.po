@@ -1,0 +1,898 @@
+# Translation of Themes - Oblique in Czech
+# This file is distributed under the same license as the Themes - Oblique package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-02-08 07:12:47+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: cs_CZ\n"
+"Project-Id-Version: Themes - Oblique\n"
+
+#. Description of the plugin/theme
+msgid "Oblique is a creative masonry theme that works great for fashion or general bloggers. Amongst the features you will find a a parallax header image, full color control with unlimited color variations, easy access to all Google Fonts, responsive design etc."
+msgstr "Oblique je mřížkově rozvržená šablona, která je skvělá pro módní nebo běžné bloggery. Mezi funkcemi najdete paralaxu záhlaví obrázku, plnou kontrolu nad barvami s neomezeným počtem barevných variant, snadný přístup ke všem písmům Google, responzivní vzhled, atd."
+
+#. #-#-#-#-#  oblique.pot (Oblique 2.0.10)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:80
+msgid "Oblique"
+msgstr "Oblique"
+
+#: inc/customizer.php:80 inc/customizer.php:107 inc/customizer.php:133
+msgid "View PRO version"
+msgstr "Zobrazit PRO verzi"
+
+#: inc/class/class-customizer-theme-info-control/class-customizer-theme-info-root.php:82
+msgid "Documentation"
+msgstr "Dokumentace"
+
+#: vendor/class-tgm-plugin-activation.php:3378
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Probíhá instalace pluginu %1$s (%2$d/%3$d)"
+
+#: vendor/class-tgm-plugin-activation.php:3377
+msgid "All installations have been completed."
+msgstr "Veškeré instalace byly dokončeny."
+
+#: vendor/class-tgm-plugin-activation.php:3376
+msgid "%1$s installed successfully."
+msgstr "Plugin %1$s byl úspěšně nainstalován."
+
+#: vendor/class-tgm-plugin-activation.php:3375
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proces instalace byl zahájen. Na některých serverech může tato operace trvat delší dobu."
+
+#: vendor/class-tgm-plugin-activation.php:3372
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Probíhá instalace a aktivace pluginu %1$s (%2$d/%3$d)"
+
+#: vendor/class-tgm-plugin-activation.php:3371
+msgid "All installations and activations have been completed."
+msgstr "Všechny instalace a aktivace byly úspěšně dokončeny."
+
+#: vendor/class-tgm-plugin-activation.php:3370
+#: vendor/class-tgm-plugin-activation.php:3376
+msgid "Hide Details"
+msgstr "Skrýt podrobnosti"
+
+#: vendor/class-tgm-plugin-activation.php:3370
+#: vendor/class-tgm-plugin-activation.php:3376
+msgid "Show Details"
+msgstr "Zobrazit podrobnosti"
+
+#: vendor/class-tgm-plugin-activation.php:3370
+msgid "%1$s installed and activated successfully."
+msgstr "Plugin %1$s byl úspěšně nainstalován a aktivován."
+
+#: vendor/class-tgm-plugin-activation.php:3369
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "Proces instalace a aktivace byl zahájen. Na některých serverech může tato operace trvat delší dobu."
+
+#: vendor/class-tgm-plugin-activation.php:3365
+msgid "The installation of %1$s failed."
+msgstr "Instalace pluginu %1$s se nezdařila."
+
+#: vendor/class-tgm-plugin-activation.php:3364
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "Při instalaci pluginu %1$s došlo k chybě: <strong>%2$s</strong>."
+
+#: vendor/class-tgm-plugin-activation.php:3362
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Probíhá aktualizace pluginu %1$s (%2$d/%3$d)"
+
+#: vendor/class-tgm-plugin-activation.php:3028
+msgid "Plugin activation failed."
+msgstr "Aktivace pluginu selhala."
+
+#: vendor/class-tgm-plugin-activation.php:2814
+msgid "No plugins are available to be activated at this time."
+msgstr "V tuto chvíli nejsou k dipozici žádné pluginy k aktivaci."
+
+#: vendor/class-tgm-plugin-activation.php:2788
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "Žádné pluginy nebyly vybrány k aktivaci. Akce nebyla provedena."
+
+#: vendor/class-tgm-plugin-activation.php:2683
+msgid "No plugins are available to be updated at this time."
+msgstr "V tuto chvíli nejsou k dipozici žádné pluginy k aktualizaci."
+
+#: vendor/class-tgm-plugin-activation.php:2681
+msgid "No plugins are available to be installed at this time."
+msgstr "V tuto chvíli nejsou k dipozici žádné pluginy k instalaci."
+
+#: vendor/class-tgm-plugin-activation.php:2645
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "Žádné pluginy nebyly vybrány k aktualizaci. Akce nebyla provedena."
+
+#: vendor/class-tgm-plugin-activation.php:2643
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "Žádné pluginy nebyly vybrány k instalaci. Akce nebyla provedena."
+
+#: vendor/class-tgm-plugin-activation.php:2612
+msgid "Activate"
+msgstr "Aktivovat"
+
+#: vendor/class-tgm-plugin-activation.php:2609
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: vendor/class-tgm-plugin-activation.php:2603
+msgid "Install"
+msgstr "Instalovat"
+
+#: vendor/class-tgm-plugin-activation.php:2570
+msgid "Upgrade message from the plugin author:"
+msgstr "Aktualizovat zprávu od autora pluginu:"
+
+#: vendor/class-tgm-plugin-activation.php:2500
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Activate %2$s"
+msgstr "Aktivovat %2$s"
+
+#: vendor/class-tgm-plugin-activation.php:2495
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Update %2$s"
+msgstr "Aktualizovat %2$s"
+
+#: vendor/class-tgm-plugin-activation.php:2491
+msgctxt "%2$s = plugin name in screen reader markup"
+msgid "Install %2$s"
+msgstr "Instalovat %2$s"
+
+#: vendor/class-tgm-plugin-activation.php:2443
+msgid "Status"
+msgstr "Stav"
+
+#: vendor/class-tgm-plugin-activation.php:2442
+msgid "Version"
+msgstr "Verze"
+
+#: vendor/class-tgm-plugin-activation.php:2438
+msgid "Type"
+msgstr "Typ"
+
+#: vendor/class-tgm-plugin-activation.php:2437
+msgid "Source"
+msgstr "Zdroj"
+
+#: vendor/class-tgm-plugin-activation.php:2436
+msgid "Plugin"
+msgstr "Plugin"
+
+#: vendor/class-tgm-plugin-activation.php:2422
+msgid "No plugins to install, update or activate. <a href=\"%1$s\">Return to the Dashboard</a>"
+msgstr "Není třeba instalovat, aktualizovat, nebo aktivovat. <a href=\"%1$s\">Návrat na nástěnku</a>"
+
+#: vendor/class-tgm-plugin-activation.php:2399
+msgid "Available version:"
+msgstr "Dostupná verze:"
+
+#: vendor/class-tgm-plugin-activation.php:2387
+msgid "Minimum required version:"
+msgstr "Minimální požadovaná verze:"
+
+#: vendor/class-tgm-plugin-activation.php:2379
+msgid "Installed version:"
+msgstr "Nainstalovaná verze:"
+
+#: vendor/class-tgm-plugin-activation.php:2371
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "neznámá"
+
+#: vendor/class-tgm-plugin-activation.php:2289
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "K aktivaci  <span class=\"count\">(%s)</span>"
+msgstr[1] "K aktivaci  <span class=\"count\">(%s)</span>"
+msgstr[2] "K aktivaci  <span class=\"count\">(%s)</span>"
+
+#: vendor/class-tgm-plugin-activation.php:2286
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Dostupné aktualizace <span class=\"count\">(%s)</span>"
+msgstr[1] "Dostupné aktualizace <span class=\"count\">(%s)</span>"
+msgstr[2] "Dostupné aktualizace <span class=\"count\">(%s)</span>"
+
+#: vendor/class-tgm-plugin-activation.php:2283
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "K instalaci <span class=\"count\">(%s)</span>"
+msgstr[1] "K instalaci <span class=\"count\">(%s)</span>"
+msgstr[2] "K instalaci <span class=\"count\">(%s)</span>"
+
+#: vendor/class-tgm-plugin-activation.php:2280
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "Vše <span class=\"count\">(%s)</span>"
+msgstr[1] "Vše <span class=\"count\">(%s)</span>"
+msgstr[2] "Vše <span class=\"count\">(%s)</span>"
+
+#: vendor/class-tgm-plugin-activation.php:2235
+msgctxt "%1$s = install status, %2$s = update status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: vendor/class-tgm-plugin-activation.php:2227
+msgid "Update recommended"
+msgstr "Doporučujeme aktualizovat"
+
+#: vendor/class-tgm-plugin-activation.php:2224
+msgid "Requires Update"
+msgstr "Vyžaduje aktualizaci"
+
+#: vendor/class-tgm-plugin-activation.php:2221
+msgid "Required Update not Available"
+msgstr "Vyžadovaná aktualizace není dostupná"
+
+#: vendor/class-tgm-plugin-activation.php:2215
+msgid "Active"
+msgstr "Aktivní"
+
+#: vendor/class-tgm-plugin-activation.php:2213
+msgid "Installed But Not Activated"
+msgstr "Nainstalováno, ale neaktivováno"
+
+#: vendor/class-tgm-plugin-activation.php:2209
+msgid "Not Installed"
+msgstr "Není nainstalováno"
+
+#: vendor/class-tgm-plugin-activation.php:2192
+msgid "Pre-Packaged"
+msgstr "Součástí šablony"
+
+#: vendor/class-tgm-plugin-activation.php:2189
+msgid "External Source"
+msgstr "Externí zdroj"
+
+#: vendor/class-tgm-plugin-activation.php:2186
+msgid "WordPress Repository"
+msgstr "Úložiště WordPressu"
+
+#: vendor/class-tgm-plugin-activation.php:2170
+msgid "Recommended"
+msgstr "Doporučený"
+
+#: vendor/class-tgm-plugin-activation.php:2167
+msgid "Required"
+msgstr "Požadovaný"
+
+#: vendor/class-tgm-plugin-activation.php:1881
+msgctxt "%s = version number"
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: vendor/class-tgm-plugin-activation.php:1116
+#: vendor/class-tgm-plugin-activation.php:2828
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "a"
+
+#: vendor/class-tgm-plugin-activation.php:938
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "Vzdálený balíček pluginu obsahuje více než jeden soubor, ale soubory nejsou zabaleny ve složce."
+
+#: vendor/class-tgm-plugin-activation.php:935
+#: vendor/class-tgm-plugin-activation.php:938
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Obraťte se prosím na poskytovatele pluginu a požádejte jej, aby plugin zabalil dle směrnic WordPressu."
+
+#: vendor/class-tgm-plugin-activation.php:935
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "Vzdálený komprimovaný plugin neobsahuje složku s vyžadovaným názvem v URL a přejmenování nefunguje."
+
+#: vendor/class-tgm-plugin-activation.php:828
+#: vendor/class-tgm-plugin-activation.php:3438
+msgid "Return to the Dashboard"
+msgstr "Návrat na nástěnku"
+
+#: vendor/class-tgm-plugin-activation.php:635
+msgid "Set the parent_slug config variable instead."
+msgstr "Doporučujeme nastavit konfigurační proměnnou parent_slug."
+
+#: vendor/class-tgm-plugin-activation.php:521
+msgid "Update Required"
+msgstr "Je vyžadována aktualizace"
+
+#: vendor/class-tgm-plugin-activation.php:520
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "Pro zajištění kompatibility s vaší šablonou, je nutné tento plugin třeba aktualizovat."
+
+#: vendor/class-tgm-plugin-activation.php:405
+msgid "Please contact the administrator of this site for help."
+msgstr "Pro pomoc, kontaktujte administrátora tohoto webu."
+
+#: vendor/class-tgm-plugin-activation.php:404
+msgid "Dismiss this notice"
+msgstr "Zavřít toto oznámení"
+
+#: vendor/class-tgm-plugin-activation.php:403
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "Všechny pluginy byly úspěšně nainstalovány a aktivovány. %1$s"
+
+#: vendor/class-tgm-plugin-activation.php:402
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin není aktivován. Pro tuto šablonu je zapotřebí vyšší verze pluginu %s. Aktualizujte, prosím, tento plugin."
+
+#: vendor/class-tgm-plugin-activation.php:401
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "Nic se nestalo. Plugin %1$s již byl aktivní."
+
+#: vendor/class-tgm-plugin-activation.php:400
+#: vendor/class-tgm-plugin-activation.php:2832
+msgid "The following plugin was activated successfully:"
+msgstr "Následující plugin byl úspěšně aktivován:"
+
+#: vendor/class-tgm-plugin-activation.php:399
+#: vendor/class-tgm-plugin-activation.php:3029
+msgid "Plugin activated successfully."
+msgstr "Plugin byl úspěšně aktivován."
+
+#: vendor/class-tgm-plugin-activation.php:398
+msgid "Return to the dashboard"
+msgstr "Návrat na Nástěnku"
+
+#: vendor/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr "Návrat do instalátoru požadovaných pluginů"
+
+#: vendor/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Začít aktivaci pluginu"
+msgstr[1] "Začít aktivaci pluginů"
+msgstr[2] "Začít aktivaci pluginů"
+
+#: vendor/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Začít aktualizaci pluginu"
+msgstr[1] "Začít aktualizaci pluginů"
+msgstr[2] "Začít aktualizaci pluginů"
+
+#: vendor/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Začít instalaci pluginu"
+msgstr[1] "Začít instalaci pluginů"
+msgstr[2] "Začít instalaci pluginů"
+
+#: vendor/class-tgm-plugin-activation.php:377
+msgid "Sorry, but you do not have the correct permissions to activate the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %1$s plugins."
+msgstr[0] "Nemáte odpovídající oprávnění pro aktivaci %1$s pluginu."
+msgstr[1] "Nemáte odpovídající oprávnění pro aktivaci %1$s pluginů."
+msgstr[2] "Nemáte odpovídající oprávnění pro aktivaci %1$s pluginů."
+
+#: vendor/class-tgm-plugin-activation.php:372
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "Následující doporučený plugin je v současné době deaktivovaný: %1$s."
+msgstr[1] "Následující doporučené pluginy jsou v současné době deaktivovány: %1$s."
+msgstr[2] "Následující doporučené pluginy jsou v současné době deaktivovány: %1$s."
+
+#: vendor/class-tgm-plugin-activation.php:367
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "Následující požadovaný plugin je v současné době deaktivovaný: %1$s."
+msgstr[1] "Následující požadované pluginy jsou v současné době deaktivovány: %1$s."
+msgstr[2] "Následující požadované pluginy jsou v současné době deaktivovány: %1$s."
+
+#: vendor/class-tgm-plugin-activation.php:362
+msgid "Sorry, but you do not have the correct permissions to update the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %1$s plugins."
+msgstr[0] "Nemáte odpovídající oprávnění pro aktualizaci %1$s pluginu."
+msgstr[1] "Nemáte odpovídající oprávnění pro aktualizaci %1$s pluginů."
+msgstr[2] "Nemáte odpovídající oprávnění pro aktualizaci %1$s pluginů."
+
+#: vendor/class-tgm-plugin-activation.php:357
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "Aktualizace k dispozici pro: %1$s."
+msgstr[1] "Aktualizace k dispozici pro: %1$s."
+msgstr[2] "Aktualizace k dispozici pro: %1$s."
+
+#: vendor/class-tgm-plugin-activation.php:352
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "Následující plugin potřebuje aktualizovat na poslední verzi pro zajištění maximální kompatibility s šablonou: %1$s."
+msgstr[1] "Následující pluginy potřebují aktualizovat na poslední verzi pro zajištění maximální kompatibility s šablonou: %1$s."
+msgstr[2] "Následující pluginy potřebují aktualizovat na poslední verzi pro zajištění maximální kompatibility s šablonou: %1$s."
+
+#: vendor/class-tgm-plugin-activation.php:347
+msgid "Sorry, but you do not have the correct permissions to install the %1$s plugin."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %1$s plugins."
+msgstr[0] "Nemáte odpovídající oprávnění pro instalaci %1$s pluginu."
+msgstr[1] "Nemáte odpovídající oprávnění pro instalaci %1$s pluginů."
+msgstr[2] "Nemáte odpovídající oprávnění pro instalaci %1$s pluginů."
+
+#: vendor/class-tgm-plugin-activation.php:342
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "Tato šablona doporučuje následující plugin:%1$s."
+msgstr[1] "Tato šablona doporučuje následující pluginy:%1$s."
+msgstr[2] "Tato šablona doporučuje následující pluginy:%1$s."
+
+#: vendor/class-tgm-plugin-activation.php:337
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "Tato šablona vyžaduje následující plugin: %1$s."
+msgstr[1] "Tato šablona vyžaduje následující pluginy: %1$s."
+msgstr[2] "Tato šablona vyžaduje následující pluginy: %1$s."
+
+#: vendor/class-tgm-plugin-activation.php:336
+msgid "Something went wrong with the plugin API."
+msgstr "Došlo k potížím s API pluginu."
+
+#: vendor/class-tgm-plugin-activation.php:335
+msgid "Installing Plugin: %s"
+msgstr "Instaluji plugin: %s"
+
+#: vendor/class-tgm-plugin-activation.php:334
+msgid "Install Plugins"
+msgstr "Instalovat pluginy"
+
+#: vendor/class-tgm-plugin-activation.php:333
+msgid "Install Required Plugins"
+msgstr "Instalovat vyžadované pluginy"
+
+#: inc/customizer.php:160
+msgid "Toggle a search form in the header?"
+msgstr "Přepnout vyhledávání v záhlaví?"
+
+#: inc/customizer.php:177
+msgid "Menu toggle text"
+msgstr "Text přepnutí menu"
+
+#: inc/customizer.php:178
+msgid "You can use this to replace the menu toggle button with some text"
+msgstr "Tohle můžete použít pro nahrazení tlačítka přepnutí menu nějakým textem"
+
+#: inc/customizer.php:982
+msgid "To create a social profile like in the theme demo, do this:<br><ol><li>Go to Appearance > Menus;</li><li>Create a new menu and add links to your social networks by using the Custom Links tab;</li><li>Assign that newly created menu to the Social position.</li></ol>"
+msgstr "Pro vytvoření sociálního profilu jako v demu šablony, udělejte následující:<br><ol><li>Jděte do Vzhled -> Menu;</li><li>Vytvořte nové menu a přidejte odkazy ke svým sociálním sítím pomocí záložky Uživatelské odkazy;</li><li>Přiřaďte toto nově vytvořené menu pozici Sociálním sítím.</li></ol>"
+
+#. translators: Search query
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Výsledky vyhledávání pro: %s"
+
+#: inc/template-tags.php:196
+msgid "Archives"
+msgstr "Archiv"
+
+#. translators: 1: Taxonomy singular name, 2: Current taxonomy term
+#: inc/template-tags.php:194
+msgid "%1$s: %2$s"
+msgstr "%1$s: %2$s"
+
+#. translators: archives title
+#: inc/template-tags.php:190
+msgid "Archives: %s"
+msgstr "Archiv: %s"
+
+#: inc/template-tags.php:186
+msgctxt "post format archive title"
+msgid "Chats"
+msgstr "Rozhovory"
+
+#: inc/template-tags.php:184
+msgctxt "post format archive title"
+msgid "Audio"
+msgstr "Audio"
+
+#: inc/template-tags.php:182
+msgctxt "post format archive title"
+msgid "Statuses"
+msgstr "Aktuality"
+
+#: inc/template-tags.php:180
+msgctxt "post format archive title"
+msgid "Links"
+msgstr "Odkazy"
+
+#: inc/template-tags.php:178
+msgctxt "post format archive title"
+msgid "Quotes"
+msgstr "Citace"
+
+#: inc/template-tags.php:176
+msgctxt "post format archive title"
+msgid "Videos"
+msgstr "Video"
+
+#: inc/template-tags.php:174
+msgctxt "post format archive title"
+msgid "Images"
+msgstr "Obrázky"
+
+#: inc/template-tags.php:172
+msgctxt "post format archive title"
+msgid "Galleries"
+msgstr "Galerie"
+
+#: inc/template-tags.php:170
+msgctxt "post format archive title"
+msgid "Asides"
+msgstr "Poznámky"
+
+#: inc/template-tags.php:167
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr "j. n. Y"
+
+#. translators: Day
+#: inc/template-tags.php:167
+msgid "Day: %s"
+msgstr "Archiv pro den: %s"
+
+#: inc/template-tags.php:164
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr "F Y"
+
+#. translators: Month
+#: inc/template-tags.php:164
+msgid "Month: %s"
+msgstr "Archiv pro měsíc: %s"
+
+#: inc/template-tags.php:161
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr "Y"
+
+#. translators: Year
+#: inc/template-tags.php:161
+msgid "Year: %s"
+msgstr "Archiv pro rok: %s"
+
+#. translators: Author
+#: inc/template-tags.php:158
+msgid "Author: %s"
+msgstr "Archiv autora: %s"
+
+#. translators: Tags list
+#: inc/template-tags.php:155
+msgid "Tag: %s"
+msgstr "Archiv pro štítek: %s"
+
+#. translators: Categories list
+#: inc/template-tags.php:152
+msgid "Category: %s"
+msgstr "Archiv rubriky: %s"
+
+#. translators: Tags list
+#: inc/template-tags.php:131
+msgid "Tagged %1$s"
+msgstr "Tagged %1$s"
+
+#. translators: Categories list
+#: inc/template-tags.php:112
+msgid "%1$s"
+msgstr "%1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:109 inc/template-tags.php:128
+msgid ", "
+msgstr ", "
+
+#. translators: Post author
+#: inc/template-tags.php:99
+msgctxt "post author"
+msgid "%s"
+msgstr "%s"
+
+#. translators: Post date
+#: inc/template-tags.php:88
+msgctxt "post date"
+msgid "%s"
+msgstr "%s"
+
+#: inc/template-tags.php:56
+msgid "Post navigation"
+msgstr "Navigace pro příspěvky"
+
+#: inc/template-tags.php:31
+msgid "Newer posts"
+msgstr "Novější příspěvky"
+
+#: inc/template-tags.php:27
+msgid "Older posts"
+msgstr "Starší příspěvky"
+
+#: inc/template-tags.php:23
+msgid "Posts navigation"
+msgstr "Navigace pro příspěvky"
+
+#. translators: Page number
+#: inc/extras.php:53
+msgid "Page %s"
+msgstr "Stránka %s"
+
+#: inc/customizer.php:946
+msgid "Social color"
+msgstr "Barva sociálních sítí"
+
+#: inc/customizer.php:925
+msgid "Footer"
+msgstr "Zápatí"
+
+#: inc/customizer.php:905
+msgid "Sidebar color"
+msgstr "Barva postranního panelu"
+
+#: inc/customizer.php:885
+msgid "Sidebar background"
+msgstr "Pozadí postranního panelu"
+
+#: inc/customizer.php:865
+msgid "Entry meta"
+msgstr "Základní informace"
+
+#: inc/customizer.php:845
+msgid "Entry titles"
+msgstr "Názvy příspěvků"
+
+#: inc/customizer.php:824
+msgid "Body text"
+msgstr "Text těla"
+
+#: inc/customizer.php:762
+msgid "Primary color"
+msgstr "Základní barva"
+
+#: inc/customizer.php:738
+msgid "Body font size"
+msgstr "Velikost písma těla"
+
+#: inc/customizer.php:716
+msgid "H6 font size"
+msgstr "Velikost písma H6"
+
+#: inc/customizer.php:694
+msgid "H5 font size"
+msgstr "Velikost písma H5"
+
+#: inc/customizer.php:672
+msgid "H4 font size"
+msgstr "Velikost písma H4"
+
+#: inc/customizer.php:650
+msgid "H3 font size"
+msgstr "Velikost písma H3"
+
+#: inc/customizer.php:628
+msgid "H2 font size"
+msgstr "Velikost písma H2"
+
+#: inc/customizer.php:606
+msgid "H1 font size"
+msgstr "Velikost písma H1"
+
+#: inc/customizer.php:584 inc/customizer.php:804
+msgid "Site description"
+msgstr "Popis webových stránek"
+
+#: inc/customizer.php:562 inc/customizer.php:783
+msgid "Site title"
+msgstr "Název webu"
+
+#: inc/customizer.php:541
+msgid "Font sizes"
+msgstr "Velikosti písem"
+
+#: inc/customizer.php:489
+msgid "Headings fonts"
+msgstr "Písma nadpisů"
+
+#: inc/customizer.php:472 inc/customizer.php:524
+msgid "Font family"
+msgstr "Druh písma"
+
+#: inc/customizer.php:455 inc/customizer.php:507
+msgid "Font name/style/sets"
+msgstr "Název/styl/sady písma"
+
+#: inc/customizer.php:437
+msgid "Body fonts"
+msgstr "Písma těla"
+
+#: inc/customizer.php:423
+msgid "You can use any Google Fonts you want for the heading and/or body. See the fonts here: google.com/fonts. See the documentation if you need help with this: docs.themeisle.com/article/294-oblique-documentation"
+msgstr "Můžete použít kterékoliv písmo Google pro nadpisy a/nebo tělo. Písma si prohlédněte zde: google.com/fonts. Pokud s tím potřebujete pomoci přjděte na anglickou dokumentaci: docs.themeisle.com/article/294-oblique-documentation"
+
+#: inc/customizer.php:421
+msgid "Fonts"
+msgstr "Písma"
+
+#: inc/customizer.php:411
+msgid "Hide featured images on single posts?"
+msgstr "Skrýt u jednotlivých příspěvků související obrázky?"
+
+#: inc/customizer.php:395
+msgid "Hide featured images on index, archives?"
+msgstr "Skrýt na úvodní stránce a v archivech související obrázky?"
+
+#: inc/customizer.php:379
+msgid "Hide the read more button?"
+msgstr "Skrýt tlačítko čtěte více?"
+
+#: inc/customizer.php:363
+msgid "Hide date/author/archives on single posts?"
+msgstr "Skrýt u jednotlivých příspěvků datum/autora/archivy?"
+
+#: inc/customizer.php:347
+msgid "Hide date/author/archives on index?"
+msgstr "Skrýt na úvodní stránce datum/autora/archivy?"
+
+#: inc/customizer.php:327
+msgid "Choose your excerpt length. Default: 35 words"
+msgstr "Nastavte si délku zkráceného příspěvku. Výchozí: 55 slov"
+
+#: inc/customizer.php:326
+msgid "Excerpt lenght"
+msgstr "Délka zkráceného příspěvku"
+
+#: inc/customizer.php:309
+msgid "Blog options"
+msgstr "Nastavení blogu"
+
+#: inc/customizer.php:296
+msgid "Top&amp;bottom padding for the branding. Default: 100px"
+msgstr "Odsazení dolního okraje v záhlaví stránky. Výchozí: 100px"
+
+#: inc/customizer.php:295
+msgid "Padding on screen sizes < 1024px"
+msgstr "Odsazení na obrazovkách < 1024px"
+
+#: inc/customizer.php:273
+msgid "Top&amp;bottom padding for the branding. Default: 150px"
+msgstr "Odsazení dolního okraje v záhlaví stránky. Výchozí: 150px"
+
+#: inc/customizer.php:272
+msgid "Padding"
+msgstr "Odsazení"
+
+#: inc/customizer.php:254 inc/customizer.php:1019
+msgid "Logo plus site title&amp;description"
+msgstr "Logo + název a popis webové stránky"
+
+#: inc/customizer.php:253 inc/customizer.php:1018
+msgid "Only logo"
+msgstr "Pouze logo"
+
+#: inc/customizer.php:249
+msgid "This option applies only if you are using a logo"
+msgstr "Tato možnost platí jen pokud používáte logo"
+
+#: inc/customizer.php:248
+msgid "Logo style"
+msgstr "Styl loga"
+
+#: inc/customizer.php:228
+msgid "Max-width for the logo. Default 200px"
+msgstr "Maximální šířka loga. Výchozí je 200px"
+
+#: inc/customizer.php:227
+msgid "Logo size"
+msgstr "Velikost loga"
+
+#: inc/customizer.php:205
+msgid "Upload your logo"
+msgstr "Nahrát svoje logo"
+
+#: inc/customizer.php:188
+msgid "Header"
+msgstr "Záhlaví"
+
+#: inc/customizer.php:142
+msgid "General"
+msgstr "Obecné"
+
+#: header.php:27
+msgid "Skip to content"
+msgstr "Přejít k obsahu webu"
+
+#. translators: 1 - Theme author 2 - Theme name
+#: functions.php:235
+msgid "Theme: %2$s by %1$s."
+msgstr "Šablona: %2$s od %1$s."
+
+#. translators: WordPress
+#: functions.php:231
+msgid "Proudly powered by %s"
+msgstr "Používáme %s (v češtině)."
+
+#: functions.php:229
+msgid "http://wordpress.org/"
+msgstr "https://cs.wordpress.org/"
+
+#: functions.php:111
+msgid "Sidebar"
+msgstr "Postranní panel"
+
+#: functions.php:57 inc/customizer.php:980
+msgid "Social"
+msgstr "Sociální sítě"
+
+#: functions.php:56
+msgid "Primary Menu"
+msgstr "Základní navigační menu"
+
+#: functions.php:329
+msgid "Continue reading &hellip;"
+msgstr "Pokračovat ve čtení &hellip;"
+
+#: content-page.php:30
+msgid "Edit"
+msgstr "Upravit"
+
+#: content-page.php:22 content-single.php:32 content.php:44
+msgid "Pages:"
+msgstr "Stránky:"
+
+#: content-none.php:29
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Pravděpodobně jste chtěli na webu zobrazit něco, co se zde bohužel nenachází. Můžete ale zkusit vyhledávání pomocí klíčových slov."
+
+#: content-none.php:24
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Vámi hledaný výraz na webu nebyl nalezen. Zkuste to prosím znovu s nějakým jiným klíčovým slovem."
+
+#. translators: Add new post link
+#: content-none.php:20
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Chystáte se publikovat svůj první příspěvek? <a href=\"%1$s\">Můžete začít rovnou zde</a>."
+
+#: content-none.php:13
+msgid "Nothing Found"
+msgstr "Nenalezeno"
+
+#: comments.php:63
+msgid "Comments are closed."
+msgstr "Komentáře nejsou povoleny."
+
+#: comments.php:31 comments.php:49
+msgid "Newer Comments"
+msgstr "Novější komentáře"
+
+#: comments.php:30 comments.php:48
+msgid "Older Comments"
+msgstr "Starší komentáře"
+
+#: comments.php:27 comments.php:45
+msgid "Comment navigation"
+msgstr "Navigace pro komentáře"
+
+#. translators: 1: number of comments, 2: post title
+#: functions.php:397
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s komentář u &bdquo;%2$s&ldquo;"
+msgstr[1] "%1$s komentáře u &bdquo;%2$s&ldquo;"
+msgstr[2] "%1$s komentářů u &bdquo;%2$s&ldquo;"
+
+#: 404.php:25
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Patrně jste chtěli zobrazit stránku, která se na webu bohužel nenachází. Můžete ale zkusit vyhledávání pomocí klíčových slov."
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Stránka nebyla nalezena."
+
+#. Author URI of the plugin/theme
+msgid "http://themeisle.com/"
+msgstr "http://themeisle.com/"
+
+#. Author of the plugin/theme
+msgid "Themeisle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the plugin/theme
+msgid "http://themeisle.com/themes/oblique"
+msgstr "http://themeisle.com/themes/oblique"

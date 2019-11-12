@@ -1,0 +1,28 @@
+# Translation of Themes - FabMasonry in Spanish (Spain)
+# This file is distributed under the same license as the Themes - FabMasonry package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-10-24 12:17:49+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - FabMasonry\n"
+
+#. Description of the theme
+msgid "FabMasonry is a photography oriented and masonry gutenberg ready child theme of Fabulist. Theme Demo: http://demo.sharkthemes.com/fabmasonry/"
+msgstr "FabMasonry es un tema orientado para fotografía y preparado para muros de gutenberg. Es un tema hijo de Fabulist. Demo del tema: http://demo.sharkthemes.com/fabmasonry/"
+
+#. Theme Name of the theme
+msgid "FabMasonry"
+msgstr "FabMasonry"
+
+#. Author URI of the theme
+msgid "http://sharkthemes.com/"
+msgstr "http://sharkthemes.com/"
+
+#. Author of the theme
+msgid "Shark Themes"
+msgstr "Shark Themes"
